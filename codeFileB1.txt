@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is DemoB Line 1
 Line 2
+=======
+Very different
+>>>>>>> 5ac0129629351dfc93933fd7855875f3ecc6f51d
